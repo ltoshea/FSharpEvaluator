@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InstructionEvaluator", "InstructionEvaluator.fsproj", "{B0BE4139-4445-407D-903D-F975877B6DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BE4139-4445-407D-903D-F975877B6DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BE4139-4445-407D-903D-F975877B6DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BE4139-4445-407D-903D-F975877B6DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BE4139-4445-407D-903D-F975877B6DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBD8803-EABF-4B37-B2B8-2AB15C1F0C2E}
+	EndGlobalSection
+EndGlobal
