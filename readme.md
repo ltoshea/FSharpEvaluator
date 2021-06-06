@@ -34,7 +34,12 @@ Result:
 
 
 ## My Notes
-I first attempted this in C# - using a stack based approach which worked well for a small input size. In a larger input though with many cycles I discovered that the stack grew huge and eventually the program ran out of memory.
+There are two ways I have included to compute the instructions
 
-a) How else can I do this that doesn't involve storing the intermediate steps?
-b) Would F# be more efficient here? Perhaps match would be good to help tokenise the string?
+Option 1 (Recursive)
+Time Taken: 26.23 seconds
+
+Option 2
+Time Taken: 0.008 seconds
+
+If this was production code I would all add some unit tests to this.
